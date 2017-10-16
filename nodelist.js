@@ -32,7 +32,6 @@ LinkedList.prototype.display = function(p){
 };
 
 var Node = function(name, x, y){
-  this.list = list;
   this.name = name;
   this.x = x;
   this.y = y;
